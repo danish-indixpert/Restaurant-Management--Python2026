@@ -1,0 +1,17 @@
+[
+    {
+        "order_id": "1001",
+        "table_type": "Small",
+        "status": "Booked"
+    },
+    {
+        "order_id": "1002",
+        "table_type": "Medium",
+        "status": "Booked"
+    },
+    {
+        "order_id": "1003",
+        "table_type": "Big",
+        "status": "Available"
+    }
+]
